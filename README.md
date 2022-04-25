@@ -15,3 +15,6 @@ There is an All-in-One Store that sells everything from groceries, medicines, cl
 -    Total amount payable
 -    Additionally, a 5% discount is applied by the store if the bill exceeds 2000INR. 
 The bill is sorted in the ascending order of the commodity names.
+
+
+You can either run the .py file available in the python 3.7+ on your machine. Or copy the code available in the same code and paste it into the 'https://www.onlinegdb.com/online_python_compiler' site and run it as it is.
